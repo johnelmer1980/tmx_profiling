@@ -1,0 +1,29 @@
+{
+  "name": "login_tag_obfuscation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnelmer1980/tmx_profiling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/johnelmer1980/tmx_profiling/issues"
+  },
+  "homepage": "https://github.com/johnelmer1980/tmx_profiling#readme",
+  "dependencies": {
+    "next": "^15.4.7",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
